@@ -8,7 +8,7 @@
   "dependencies" : {},
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/ozelonur/com.polarbear.utilities.git"
+    "url" : "https://github.com/ozelonur/com.polarbear.manager.git"
   }
 
 }
