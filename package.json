@@ -1,0 +1,14 @@
+{
+  "name" : "com.polarbear.manager",
+  "displayName" : "Polar Bear Manager",
+  "version" : "1.0.0",
+  "unity" : "2021.3",
+  "author" : "Onur ÖZEL",
+  "description" : "This is a Polar Bear Manager package for useful methods!",
+  "dependencies" : {},
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ozelonur/com.polarbear.utilities.git"
+  }
+
+}
