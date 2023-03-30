@@ -10,11 +10,4 @@
     "type" : "git",
     "url" : "https://github.com/ozelonur/com.polarbear.manager.git"
   }
-  
-  "keywords": [
-    "upm",
-    "git",
-    "editor"
-  ]
-
 }
